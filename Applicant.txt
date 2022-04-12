@@ -1,0 +1,39 @@
+A0001
+000606012893
+Ali
+ali@yahoo.com
+#101-K09, KTR, UTM.
+Male
+011-6754356
+Student
+07-07-2021
+2:00 PM
+Positive
+North
+
+A0002
+030209063456
+Siti
+siti@hotmail.com
+#202-R16, KTF,UTM.
+Female
+012-3652427
+Student
+18-07-2021
+3:00 PM
+Positive
+North
+
+A0003
+910428039986
+Lai Kuan Yin
+ky@utm.my
+Desa baru
+Female
+011-26537597
+Staff
+01-07-2021
+4:00 PM
+Pending
+South
+
